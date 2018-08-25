@@ -26,11 +26,15 @@ Open your BCH Diamonds APP.
 
 Close all ads and Press Play On Packet Capture APP:
 
-![Capturing Packets](/src/Screenshot_1.png?raw=true)
+
 
 Click Claim:
 
 ![Claim](/src/Screenshot_2.png?raw=true)
+
+Search the url request that contains ajax.php :
+
+![Capturing Packets](/src/Screenshot_1.png?raw=true)
 
 Copy the Urls and Cookie Headers and paste to config.php file:
 
