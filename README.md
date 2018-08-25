@@ -38,15 +38,15 @@ Copy the Urls and Cookie Headers and paste to $config variable:
 $ karma test
 ```
 
-### Explain
+### Docs
 
 $config variable on the script.
 
-| Variable | Description |
-| ------ | ------ |
-| urls | Url From Packet Capture or Fiddler |
-| sessid | PHPSESSID cookie header from Packet Capture or Fiddler |
-| worker | Numbers of Worker/claim, be careful |
+| Variable | Description | Example
+| ------ | ------ | ------ |
+| urls | Url From Packet Capture or Fiddler | hUDJSNChdiej73xxxxxxcrypto2
+| sessid | PHPSESSID cookie header from Packet Capture or Fiddler | vcvbuo9sv137rg4l8gasxxxx
+| worker | Numbers of Worker/claim, be careful | 20 or 50 (free)
 
 ### How To Run
 
