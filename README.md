@@ -27,13 +27,13 @@ Open your BCH Diamonds APP.
 
 Close all ads and Press Play On Packet Capture APP:
 ```sh
-$ node app
+![Capturing Packets] (https://raw.githubusercontent.com/meetdani/cryptoplanets-bot/master/src/Screenshot_1.png)
 ```
 Click Claim:
 ```sh
 $ gulp watch
 ```
-Copy the Urls and Cookie Headers and paste to $config variable:
+Copy the Urls and Cookie Headers and paste to config.php file:
 ```sh
 $ karma test
 ```
