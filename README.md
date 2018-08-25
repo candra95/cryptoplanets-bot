@@ -7,16 +7,7 @@ List of Bots :
   - BCH Diamonds
   - Crypto Diamonds
   - etc
-
-## Contributors
-
-Thanks goes to these wonderful people :
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-| [<img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;"/><br /><sub><b>Eka Syahwan</b></sub>](https://github.com/radenvodka)<br /> sdata author (PHP cURL multi-threading)
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
+  
 ### Installation
 
 Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
@@ -64,5 +55,15 @@ $config variable on the script.
 ```sh
 $ php cryptoplanets-bch.php
 ```
+
+## Contributors
+
+Thanks goes to these wonderful people :
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars3.githubusercontent.com/u/5636480?s=460&v=4" width="100px;"/><br /><sub><b>Eka Syahwan</b></sub>](https://github.com/radenvodka)<br /> sdata author (PHP cURL multi-threading)
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ### Issues 
 > Please report this problem through the issue page [Create New Issue] (https://github.com/meetdani/cryptoplanets-bot/issues)
