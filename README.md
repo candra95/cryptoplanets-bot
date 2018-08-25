@@ -27,15 +27,15 @@ Open your BCH Diamonds APP.
 
 Close all ads and Press Play On Packet Capture APP:
 
-![Capturing Packets] (/src/Screenshot_1.png?raw=true)
+![Capturing Packets](/src/Screenshot_1.png?raw=true)
 
 Click Claim:
 
-![Claim] (/src/Screenshot_2.png?raw=true)
+![Claim](/src/Screenshot_2.png?raw=true)
 
 Copy the Urls and Cookie Headers and paste to config.php file:
 
-![Claim] (/src/Screenshot_3.png?raw=true)
+![Claim](/src/Screenshot_3.png?raw=true)
 
 ### Docs
 
