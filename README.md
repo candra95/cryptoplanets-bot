@@ -64,3 +64,5 @@ $config variable on the script.
 ```sh
 $ php cryptoplanets-bch.php
 ```
+### Issues 
+> Please report this problem through the issue page [Create New Issue] (https://github.com/meetdani/cryptoplanets-bot/issues)
