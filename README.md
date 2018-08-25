@@ -29,12 +29,10 @@ Close all ads and Press Play On Packet Capture APP:
 ```sh
 $ node app
 ```
-
 Click Claim:
 ```sh
 $ gulp watch
 ```
-
 Copy the Urls and Cookie Headers and paste to $config variable:
 ```sh
 $ karma test
@@ -58,7 +56,7 @@ $ php cryptoplanets-bch.php
 
 ## Contributors
 
-Thanks goes to these wonderful people :
+Thanks goes to these wonderful dev ❤️ :
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
