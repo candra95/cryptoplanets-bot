@@ -26,17 +26,16 @@ if you are using Nox or other Emulator Use Fiddler and setup the proxy
 Open your BCH Diamonds APP.
 
 Close all ads and Press Play On Packet Capture APP:
-```sh
-![Capturing Packets] (https://raw.githubusercontent.com/meetdani/cryptoplanets-bot/master/src/Screenshot_1.png)
-```
+
+![Capturing Packets] (/src/Screenshot_1.png?raw=true)
+
 Click Claim:
-```sh
-$ gulp watch
-```
+
+![Claim] (/src/Screenshot_2.png?raw=true)
+
 Copy the Urls and Cookie Headers and paste to config.php file:
-```sh
-$ karma test
-```
+
+![Claim] (/src/Screenshot_3.png?raw=true)
 
 ### Docs
 
