@@ -7,11 +7,7 @@ require_once("sdata-modules.php");
  * @Last Modified by:  Dani Hidayat
  * @Last Modified time: Pandeglang, 2018-08-21
 */
-##############################################################################################################
-$config['urls'] = 'hUDJSNChdiej73dosN8S7KcyJneEdcrypto2'; //from urls
-$config['sessid'] = 'vcvbuo9sv137rg4l8gas3ickn5'; //from http cookie PHPSESSID headers
-$config['worker'] = '50'; //choose wisely, be careful, too much worker causing banned account
-##############################################################################################################
+include ("config.php");
 	$url 	= array(); 
 	for ($i=0; $i <$config['worker']; $i++) { 
         $urls[] = array(
