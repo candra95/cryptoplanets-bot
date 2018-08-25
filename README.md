@@ -24,35 +24,32 @@ Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ cd dillinger
-$ npm install -d
-$ node app
+$ git clone https://github.com/meetdani/cryptoplanets-bot.git
+$ cd cryptoplanets-bot
 ```
-### Development
+### Config
 
-Want to contribute? Great!
+Download Packet Capture From Playstore
+if you are using Nox or other Emulator Use Fiddler and setup the proxy
 
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantanously see your updates!
+Open your BCH Diamonds APP.
 
-Open your favorite Terminal and run these commands.
-
-First Tab:
+Close all ads and Press Play On Packet Capture APP:
 ```sh
 $ node app
 ```
 
-Second Tab:
+Click Claim:
 ```sh
 $ gulp watch
 ```
 
-(optional) Third:
+Copy the Urls and Cookie Headers and paste to $config variable:
 ```sh
 $ karma test
 ```
 
-### Explained
+### Explain
 
 $config variable on the script.
 
@@ -62,4 +59,8 @@ $config variable on the script.
 | sessid | PHPSESSID cookie header from Packet Capture or Fiddler |
 | worker | Numbers of Worker/claim, be careful |
 
+### How To Run
 
+```sh
+$ php cryptoplanets-bch.php
+```
