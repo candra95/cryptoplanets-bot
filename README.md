@@ -28,18 +28,6 @@ $ cd dillinger
 $ npm install -d
 $ node app
 ```
-
-### Bots Config
-
-Change $config variable on the script.
-
-| Variable | Description |
-| ------ | ------ |
-| urls | Url From Packet Capture or Fiddler |
-| sessid | PHPSESSID cookie header from Packet Capture or Fiddler |
-| worker | Numbers of Worker/claim, be careful |
-
-
 ### Development
 
 Want to contribute? Great!
@@ -63,3 +51,15 @@ $ gulp watch
 ```sh
 $ karma test
 ```
+
+### Explained
+
+$config variable on the script.
+
+| Variable | Description |
+| ------ | ------ |
+| urls | Url From Packet Capture or Fiddler |
+| sessid | PHPSESSID cookie header from Packet Capture or Fiddler |
+| worker | Numbers of Worker/claim, be careful |
+
+
