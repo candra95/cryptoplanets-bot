@@ -5,12 +5,11 @@ Free AutoClaim Diamonds on CryptoPlanets Faucets.
 List of Bots :
 
   - BCH Diamonds
-  - Crypto Diamonds
-  - etc
+  - Will be updated soon..
   
 ### Installation
 
-Requires [PHP](https://php.org/) v7 to run.
+Requires [PHP](https://php.net/) v7 to run.
 
 Install Command
 
@@ -18,7 +17,7 @@ Install Command
 $ git clone https://github.com/meetdani/cryptoplanets-bot.git
 $ cd cryptoplanets-bot
 ```
-### Config
+### Configuration
 
 Download Packet Capture From Playstore
 if you are using Nox or other Emulator Use Fiddler and setup the proxy
@@ -37,7 +36,7 @@ Copy the Urls and Cookie Headers and paste to config.php file:
 
 ![Claim](/src/Screenshot_3.png?raw=true)
 
-### Docs
+### Docs/Manual
 
 $config variable on the script.
 
