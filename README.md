@@ -10,9 +10,9 @@ List of Bots :
   
 ### Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
+Requires [PHP](https://php.org/) v7 to run.
 
-Install the dependencies and devDependencies and start the server.
+Install Command
 
 ```sh
 $ git clone https://github.com/meetdani/cryptoplanets-bot.git
